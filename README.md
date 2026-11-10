@@ -1,6 +1,6 @@
 # Hi there, I'm Phương Như 👋
 
-### About 
+### About Me
 - 🎓 **Role:** IT Student @ Trường Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE)
 - 🎯 **Target Roles:** Business Analyst (BA) | Data Analyst (DA) | Software Tester / QC
 - 🔍 **Focus:** Requirements Analysis • System Design • Software Quality Assurance
