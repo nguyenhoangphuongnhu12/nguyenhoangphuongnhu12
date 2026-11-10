@@ -14,9 +14,9 @@
 ---
 
 ### Tools & Technologies
-- 🛠️ **Languages & Scripting:** Python, SQL, C#, C++, JavaScript / TypeScript
+- 🛠️ **Languages & Scripting:** Python, SQL, C#, C++, JavaScript
 - 🎨 **Testing & Design Tools:** Postman, MS Excel (Test Case / Bug Report), Figma
-- 🖥️ **Development & IDE:** Visual Studio Code, Qt Designer, Unity 2D, Git / GitHub
+- 🖥️ **Development & IDE:** Visual Studio Code, SSMS, Unity 2D, Git / GitHub
 
 ---
 
