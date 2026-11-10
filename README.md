@@ -22,9 +22,5 @@
 
 ### Connect with me
 - ✉ **Email:** [nguyenhoangphuongnhu12@gmail.com]
+- 🌐 **Facebook:** [https://www.facebook.com/share/1G1mvBfCMx/]
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" />
-</p>
