@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Phương Như 👋
 
-<!--
-**nguyenhoangphuongnhu12/nguyenhoangphuongnhu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About 
+- 🎓 **Role:** IT Student @ Trường Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE)
+- 🎯 **Target Roles:** Business Analyst (BA) | Data Analyst (DA) | Software Tester / QC
+- 🔍 **Focus:** Requirements Analysis • System Design • Software Quality Assurance
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning & Exploring
+- 📖 **Currently learning:** SQL, Python for Data Analysis, API Testing, Test Case Design
+- 🌱 **Exploring:** System Architecture, Automation Testing
+
+---
+
+### Tools & Technologies
+- 🛠️ **Languages & Scripting:** Python, SQL, C#, C++, JavaScript / TypeScript
+- 🎨 **Testing & Design Tools:** Postman, MS Excel (Test Case / Bug Report), Figma
+- 🖥️ **Development & IDE:** Visual Studio Code, Qt Designer, Unity 2D, Git / GitHub
+
+---
+
+### Connect with me
+- ✉ **Email:** [nguyenhoangphuongnhu12@gmail.com]
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial" alt="GitHub Stats" />
+</p>
